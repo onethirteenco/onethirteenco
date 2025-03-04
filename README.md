@@ -27,5 +27,3 @@ At One Thirteen, we believe in creating software to create applications that str
 - BlueSky: [@onethirteen.co](https://bsky.app/profile/onethirteen.co)
 
 ---
-
-<p align="center">© 2025 One Thirteen. All rights reserved.</p>
