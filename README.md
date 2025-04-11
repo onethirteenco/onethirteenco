@@ -1,29 +1,51 @@
-# One Thirteen
-
+# 🧭 One Thirteen  
 ### Digital Media & Software Development
 
-One Thirteen is a multi-faceted digital media and software development company established in 2025, focused on creating applications that enhance creative flow and productivity.
+**One Thirteen** is a creative technology studio founded in 2025, focused on building thoughtful software and tools that enhance creative flow and productivity.
 
-### Our Products
+---
 
-| App | Description | Status | Platform |
-|-----|-------------|--------|----------|
-| **Bit Buddy** | Track and log external hard drives, SSDs, and other creative devices | Released (v2.5) | iOS/iPadOS |
-| **Moneyminder** | Savings goal app | In Development | iOS |
-| **Cribbo** | HomeKit code and controller app | In Development | iOS |
+## 🛠️ Our Apps
 
-### Mission
+| App | Description | Status | Platform | Links |
+|-----|-------------|--------|----------|-------|
+| **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v2.6** | iOS/iPadOS | [🔗 Apple App Store](https://one13.link/bitbuddy)
+| **Quick.Link** | Create and manage custom short links via YOURLS | 🟠 **v1.0 (In Review)** | iOS/macOS |
+| **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.83a** | iOS |
+| **Cribbo** | A streamlined HomeKit pairing and controller app | 🟣 **v0.2** | iOS |
 
-At One Thirteen, we believe in creating software to create applications that streamline creative workflows and boost productivity. We believe in clean, intuitive design that puts privacy and functionality first.
+---
 
-### 🔗 Official Links
+## 💻 Open Source Projects
 
-> **[Bio.One13](https://bio.one13.me)** — Our official link hub for all One Thirteen resources
+| Project | Description | Status | Links |
+|---------|-------------|--------|-------|
+| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **Released 4/10/25** | [🔗 Demo](https://bio.one13.me) |
+| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **Released 3/22/25** | [📂 Repository](https://one13.link/momentogh) |
+| **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **Released 4/11/25** | [🌐 Demo](https://one13.link/web-template) |
+| **Bio Site v1** | First-gen version of our official link page | 🟢 **Released 4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) |
 
-### Connect With Us
+---
 
-- Instagram: [@onethirteenco](https://instagram.com/onethirteenco)
-- Twitter: [@onethirteen_co](https://twitter.com/onethirteen_co)
-- BlueSky: [@onethirteen.co](https://bsky.app/profile/onethirteen.co)
+## 🎯 Mission
+
+At **One Thirteen**, we build tools to **streamline creative workflows** and **boost productivity** through clean, intuitive design.  
+Our work emphasizes **privacy**, **functionality**, and a focus on the creator.
+
+---
+
+## 🔗 Official Link Hub
+
+> 🌐 **[bio.one13.me](https://bio.one13.me)** — Your gateway to all things One Thirteen
+> 
+> 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website built using [website-template](https://one13.link/web-template) 👀
+
+---
+
+## 🌐 Connect With Us
+
+- 📸 [Instagram @onethirteenco](https://instagram.com/onethirteenco)  
+- 🐦 [Twitter @onethirteen_co](https://twitter.com/onethirteen_co)  
+- 🌌 [BlueSky @onethirteen.co](https://bsky.app/profile/onethirteen.co)
 
 ---
