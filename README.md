@@ -21,7 +21,7 @@
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
 | **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **Released 4/10/25** | [🔗 Demo](https://bio.one13.me) |
-| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **Released 3/22/25** | [📂 Repository](https://one13.link/momentogh) |
+| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **Released 3/22/25** | [📂 Repo](https://one13.link/momentogh) |
 | **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **Released 4/11/25** | [🌐 Demo](https://one13.link/web-template) |
 | **Bio Site v1** | First-gen version of our official link page | 🟢 **Released 4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) |
 
@@ -39,6 +39,8 @@ Our work emphasizes **privacy**, **functionality**, and a focus on the creator.
 > 🌐 **[bio.one13.me](https://bio.one13.me)** — Your gateway to all things One Thirteen
 > 
 > 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website built using [website-template](https://one13.link/web-template) 👀
+>
+> 🌐 **[whatnickthinks.com](https://whatnickthinks.com)** - One of our first-ever projects, no longer receiving updates (2008-2019).
 
 ---
 
