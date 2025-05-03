@@ -10,7 +10,7 @@
 | App | Description | Status | Platform | Links |
 |-----|-------------|--------|----------|-------|
 | **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v2.6** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
-| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.0** | iOS/macOS | [🔗 App Store](https://one13.link/quick-link-dl)
+| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.0** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
 | **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.83a** | iOS |
 | **Cribbo** | A streamlined HomeKit pairing and controller app | 🟣 **v0.2** | iOS |
 
@@ -18,12 +18,12 @@
 
 ## 💻 Open Source Projects
 
-| Project | Description | Status | Links |
-|---------|-------------|--------|-------|
-| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **Released 4/10/25** | [🔗 Demo](https://bio.one13.me) |
-| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **Released 3/22/25** | [📂 Repo](https://one13.link/momentogh) |
-| **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **Released 4/11/25** | [🌐 Demo](https://one13.link/web-template) |
-| **Bio Site v1** | First-gen version of our official link page | 🟢 **Released 4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) |
+| Project | Description | Status | Demo |Code    |
+|---------|-------------|--------|-------|-------|
+| **Momento Camera** | A clean, no-frills camera + gallery app for iOS | 🟢 **Released 3/22/25** | N/A | [📂 Repository](https://one13.link/momentogh)
+| **Link-in-Bio Site** | A minimal, elegant link-in-bio template built in HTML | 🟢 **Released 4/10/25** | [🔗 Demo](https://bio.one13.me) | [📂 Repository](https://github.com/onethirteenco/link-in-bio)
+| **Website Template** | A free, minimal website template (HTML/CSS) | 🟢 **Released 4/11/25** | [🌐 Demo](https://one13.link/web-template) | [📂 Repository](https://github.com/onethirteenco/website-template)
+| **Bio Site v1** | First-gen version of our official link page | 🟢 **Released 4/10/25** | [🌿 Demo](https://one13.link/bio-site-v1) | [📂 Repository](https://github.com/onethirteenco/bio-site)
 
 ---
 
