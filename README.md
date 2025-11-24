@@ -9,10 +9,9 @@
 
 | App | Description | Status | Platform | Links |
 |-----|-------------|--------|----------|-------|
-| **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v2.6** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
-| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.1.1** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
+| **Bit Buddy** | Track and manage external drives (HDDs, SSDs, etc.) | 🟢 **v2.7** | iOS/iPadOS | [🔗 App Store](https://one13.link/bitbuddy)
+| **Quick.Link** | Create and manage custom short links via YOURLS | 🟢 **v1.5** | iOS | [🔗 App Store](https://one13.link/quick-link-dl)
 | **Moneyminder** | A simple app for setting and tracking savings goals | 🟣 **v0.9a** | iOS |
-| **Cribbo** | A streamlined HomeKit pairing and controller app | 🟣 **v0.2** | iOS |
 
 ---
 
@@ -38,7 +37,7 @@ Our work emphasizes **privacy**, **functionality**, and a focus on the creator.
 
 > 🌐 **[bio.one13.me](https://bio.one13.me)** — Your gateway to all things One Thirteen
 > 
-> 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website built using [website-template](https://one13.link/web-template) 👀
+> 🌐 **[onethirteen.co](https://onethirteen.co)** — One Thirteen's official website.
 >
 > 🌐 **[whatnickthinks.com](https://whatnickthinks.com)** - One of our first-ever projects, no longer receiving updates (2008-2019).
 
